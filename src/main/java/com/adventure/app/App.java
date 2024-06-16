@@ -115,7 +115,7 @@ public class App {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hi let adventure begin! 1234567");
+		System.out.println("Hi let adventure begin! 12345678");
 		
 		
 		//int i = 3;	System.out.println(i/2);
